@@ -11,3 +11,7 @@ func Kali(a int, b int) int {
 func tambah(a int, b int) int {
 	return a + b
 }
+
+func kurang(a int, b int) int {
+	return a - b
+}

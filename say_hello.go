@@ -7,3 +7,7 @@ func SayHello(nama string) string {
 func Kali(a int, b int) int {
 	return a * b
 }
+
+func tambah(a int, b int) int {
+	return a + b
+}

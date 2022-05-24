@@ -15,3 +15,6 @@ func tambah(a int, b int) int {
 func kurang(a int, b int) int {
 	return a - b
 }
+func bagi(a int, b int) int {
+	return a / b
+}

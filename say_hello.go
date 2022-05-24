@@ -8,13 +8,13 @@ func Kali(a int, b int) int {
 	return a * b
 }
 
-func tambah(a int, b int) int {
+func Tambah(a int, b int) int {
 	return a + b
 }
 
-func kurang(a int, b int) int {
+func Kurang(a int, b int) int {
 	return a - b
 }
-func bagi(a int, b int) int {
+func Bagi(a int, b int) int {
 	return a / b
 }

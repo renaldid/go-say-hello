@@ -18,3 +18,7 @@ func Kurang(a int, b int) int {
 func Bagi(a int, b int) int {
 	return a / b
 }
+
+func nama(kucing string) string {
+	return "nama kucing" + kucing
+}
